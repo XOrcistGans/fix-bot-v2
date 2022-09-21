@@ -11,25 +11,25 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner tidak menerima save contact oke kuntul
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner Hanya merespon yang berkaitan dengan BOT wa.me/+6283149798467
 • No Telp`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : WH-MODS-Dev
-${htjava} *✉️ Nama RL* : HAMBA ALLAH
+${htjava} *💌 Nama* : 𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬
+${htjava} *✉️ Nama RL* : 𝐗𝐎𝐗
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : SUDAH TAMAT
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Barat
+${htjava} *⏰ Tanggal lahir* : Baru Lahir Kemaren 
+${htjava} *🎨 Umur* : 99999999999999
+${htjava} *🧮 Kelas* : TK
+${htjava} *🧩 Hobby* : Turu And Cuan "MODDER WHATSAPP"
+${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL Tapi Lu Gausah So Asik
+${htjava} *🗺️ Tinggal* : USA, Mars, Pluto
 ${htjava} *❤️ Waifu* : -
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
