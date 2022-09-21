@@ -1,7 +1,7 @@
 {
     "name": "𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬 - 𝐁𝐎𝐓",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By 𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -44,9 +44,9 @@
         "google-it",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Wahidhidayatulla/fix-bot-v1",
+    "homepage": "https://github.com/XOrcistGans",
     "author": {
-        "name": "Wahidhidayatulla"
+        "name": "𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬"
     },
     "repository": {
         "type": "git",
